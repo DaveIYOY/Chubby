@@ -1,0 +1,26 @@
+body{
+	background: whitesmoke;
+}
+.wrapper1{
+	height: 1000;
+	border:1px solid black;
+}
+header{
+	text-align: center;
+	background: dimgray;
+	border: 1px solid black;
+	border-radius: 15px;
+}
+img{
+	float:right;
+	border-radius: 20px;
+	height: 500px;
+	width: 30%;
+	margin-top:50px;
+
+}
+.newyork{
+	float:left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
